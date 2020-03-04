@@ -1,15 +1,19 @@
 # Expensify
 
+[Expensify Live](http://expensify-keenanbruni.herokuapp.com/)
+
 Expensify is a fully featured expense tracking React application.
 
   - User authentication & data storage handled through Google Firebase
   - Utilizes Redux for state management
   - Utilizes an Express/Node.js backend
+  - Features adaptive SCSS styling for mobile & desktop
   - Full testing suite built with Jest & Enzyme; 74 tests in total
 
 ## Features & Implementation
 
-### Multi-Page Application
+### Multi-Page Application  
+
 Expensify's content is split into 3 separate pages that handle the core functionality of the app:
 * Login Page
 * Dashboard
