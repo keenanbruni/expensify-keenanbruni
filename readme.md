@@ -21,7 +21,7 @@ Routing is handled by React-Router. Public and Private routes are used to handle
 
 User authentication is handled by Firebase using Google credentials. Upon the initial site visit, the unauthenticated user is prompted to sign in using their Google credentials. Once successfully authenticated, a new user account is stored and the user is routed to the Expensify dashboard.
 
-![Login Screen](https://imagizer.imageshack.com/img923/6504/Avu66b.png)
+![Login Screen](https://imagizer.imageshack.com/img923/2290/qvYMAT.png)
 
 ### Expense Dashboard
 
