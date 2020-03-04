@@ -6,7 +6,7 @@ export const LoginPage = ({ startLogin }) => (
     <div className="box-layout">
         <div className="box-layout__box">
             <h1 className="box-layout__title">Expensify</h1>
-            <p>Get Yo Chicken Right</p>
+            <p>Get Your Money Right</p>
             <button className= "button" onClick={startLogin}>Login with Google</button>
         </div>
     </div>
