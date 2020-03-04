@@ -1,6 +1,6 @@
 # Expensify
 
-[Expensify Live](http://expensify-keenanbruni.herokuapp.com/)
+[Expensify Live](https://expensify-keenanbruni.netlify.com/)
 
 Expensify is a fully featured expense tracking React application.
 
