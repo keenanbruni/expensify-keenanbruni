@@ -2,7 +2,7 @@
 
 [Expensify Live](https://expensify-keenanbruni.netlify.com/)
 
-Expensify is a fully featured expense tracking React application.
+Expensify is a fully featured expense tracking React application. Built for a React course project.
 
   - User authentication & data storage handled through Google Firebase
   - Utilizes Redux for state management
